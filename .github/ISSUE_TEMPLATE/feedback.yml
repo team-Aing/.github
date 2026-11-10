@@ -1,0 +1,28 @@
+name: 피드백
+description: 프로젝트에 대한 의견이나 개선 아이디어를 남겨요
+title: "[피드백] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: 사람이 아니라 코드와 아이디어에 대해 구체적으로 적어 주세요.
+  - type: textarea
+    id: good
+    attributes:
+      label: 좋았던 점
+    validations:
+      required: false
+  - type: textarea
+    id: improve
+    attributes:
+      label: 개선하면 좋을 점
+      description: 어떤 부분을, 왜, 어떻게 바꾸면 좋을지 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: 참고 자료
+      description: 관련 링크, 코드 위치(파일명과 줄 번호), 스크린샷 등
+    validations:
+      required: false
