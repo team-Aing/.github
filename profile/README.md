@@ -13,20 +13,10 @@ Aing은 인공지능을 주전공으로 하는 학생들의 전공동아리입�
 
 <br>
 
-## Projects
+<details>
+<summary><b>Members</b></summary>
 
-| Project | Description | Author |
-|:--|:--|:--|
-| [**YOBA**](https://github.com/team-Aing/YOBA) | 2026 AI 미래교육 박람회 실시간 혼잡도 제공 CCTV 분석 시스템 | [lkw-k](https://github.com/lkw-k) |
-| [**HandTracking**](https://github.com/team-Aing/HandTracking) | 손 추적 프로젝트 | [lkw-k](https://github.com/lkw-k) |
-| [**AI-theory-visualization**](https://github.com/team-Aing/AI-theory-visualization) | AI 이론 시각화 | [tetowasreal](https://github.com/tetowasreal) |
-| [**AIN-main**](https://github.com/team-Aing/AIN-main) | 팀 프로젝트 | [yea-kasane-teto](https://github.com/yea-kasane-teto) |
-
-<br>
-
-## Members
-
-### 9기
+#### 9기
 
 <table>
   <tr>
@@ -35,7 +25,7 @@ Aing은 인공지능을 주전공으로 하는 학생들의 전공동아리입�
   </tr>
 </table>
 
-### 10기
+#### 10기
 
 <table>
   <tr>
@@ -49,3 +39,5 @@ Aing은 인공지능을 주전공으로 하는 학생들의 전공동아리입�
     <td align="center" width="120"><a href="https://github.com/helloboy7917"><img src="https://github.com/helloboy7917.png?size=120" width="64"><br><sub><b>helloboy7917</b></sub></a></td>
   </tr>
 </table>
+
+</details>
