@@ -38,6 +38,9 @@ Aing은 인공지능을 주전공으로 하는 학생들의 전공동아리입�
     <td align="center" width="120"><a href="https://github.com/ertyuipop777"><img src="https://github.com/ertyuipop777.png?size=120" width="64"><br><sub><b>ertyuipop777</b></sub></a></td>
     <td align="center" width="120"><a href="https://github.com/helloboy7917"><img src="https://github.com/helloboy7917.png?size=120" width="64"><br><sub><b>helloboy7917</b></sub></a></td>
   </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://github.com/kch8120"><img src="https://github.com/kch8120.png?size=120" width="64"><br><sub><b>kch8120</b></sub></a></td>
+  </tr>
 </table>
 
 </details>
