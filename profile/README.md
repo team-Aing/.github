@@ -11,6 +11,8 @@ Aing은 인공지능을 주전공으로 하는 학생들의 전공동아리입�
 
 `Share` &nbsp;·&nbsp; `Feedback` &nbsp;·&nbsp; `Refine`
 
+<a href="https://huggingface.co/team-Aing"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="Hugging Face"></a>
+
 <br>
 
 <details>
